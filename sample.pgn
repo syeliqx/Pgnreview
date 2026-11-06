@@ -1,0 +1,18 @@
+[Event "Sample game"]
+[Site "?"]
+[Date "2026-11-06"]
+[White "Player One"]
+[Black "Player Two"]
+[Result "1-0"]
+[WhiteElo "432"]
+[BlackElo "477"]
+[TimeControl "120+1"]
+[Termination "*"]
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. dxc5 Bxc5 6. Nc3 Qd7 7. Nb5 Nge7 8. Bg5
+O-O 9. Bxe7 Qxe7 10. Bc4 dxc4 11. b3 cxb3 12. cxb3 h6 13. g4 Rd8 14. Qc2 a6 15.
+Nc3 b5 16. a4 bxa4 17. Nxa4 Bb7 18. Nxc5 Nb4 19. Qc4 Nc6 20. Nxb7 Qxb7 21. O-O
+Ne7 22. Rfd1 Rxd1+ 23. Rxd1 Qxf3 24. Qd3 Qxg4+ 25. Kh1 Nc6 26. Rc1 Rd8 27. Qxa6
+Rd1+ 28. Rxd1 Qxd1+ 29. Kg2 Nxe5 30. Qc8+ Kh7 31. b4 Qf3+ 32. Kf1 Ng4 33. Qc2+
+g6 34. b5 Nxh2+ 35. Kg1 Ng4 36. b6 f5 37. Qb2 Qb7 38. f3 Qxf3 39. b7 Qd1+ 40.
+Kg2 Ne3+ 41. Kf2 Ng4+ 42. Kg3 Qg1+ 43. Kf3 Qe3+ 44. Kg2 h5 45. b8=Q Qe1 46.
+Q8h8# 1-0

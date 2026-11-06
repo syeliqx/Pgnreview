@@ -1,0 +1,30 @@
+{
+  "name": "pgn-review",
+  "version": "1.0.0",
+  "description": "Chess game review from a PGN: move grades, accuracy, evaluation graph. Web page, CLI and local HTTP API, no dependencies.",
+  "license": "MIT",
+  "private": false,
+  "main": "src/review.js",
+  "bin": {
+    "pgn-review": "bin/pgn-review.js"
+  },
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js && node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "chess",
+    "pgn",
+    "game-review",
+    "analysis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syeliqx/pgn-review.git"
+  },
+  "homepage": "https://syeliqx.github.io/pgn-review/"
+}
